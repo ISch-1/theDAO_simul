@@ -3,6 +3,7 @@ This project demonstrates the reentrancy vulnerability that led to the 2016 The 
 
 
 ---HOW TO RUN ON REMIX---
+
 Initialize both contracts (EtherStore and Attack) using account[0].
 
 Switch to a second account: account[1].
